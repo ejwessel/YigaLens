@@ -3,7 +3,7 @@
     "document_id": "LoOKKW5pSdw8IYLFmBzS",
     "original_document_id": "LoOKKW5pSdw8IYLFmBzS",
     "version": "23",
-    "lastChanged": "1585445446560",
+    "lastChanged": "1585446385680",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -257,7 +257,7 @@
                     },
                     {
                         "k": "3",
-                        "v": "6036290db45e5081ec042f1e31a63d4b"
+                        "v": "7c460804c24d070f3749691d069c3c59"
                     },
                     {
                         "k": "5",
@@ -283,9 +283,9 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-03-28T21:22:59",
+                        "lastModified": "2020-03-28T21:46:19",
                         "name": "Public",
-                        "hash": "77a931b05dab4674814d3834123f2702",
+                        "hash": "41ba556f3e85c5d391979ea914edfa4d",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -310,9 +310,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-03-28T21:22:21",
+                                "lastModified": "2020-03-28T21:46:18",
                                 "name": "Yiga.png",
-                                "hash": "6036290db45e5081ec042f1e31a63d4b",
+                                "hash": "7c460804c24d070f3749691d069c3c59",
                                 "children": ""
                             },
                             {
@@ -402,7 +402,7 @@
                         "fileId": "3",
                         "originalId": "4",
                         "publicId": "3",
-                        "source": "\/Users\/ejwessel\/Dev\/YigaLens\/Public\/Sheikah.png",
+                        "source": "\/Users\/ejwessel\/Dev\/YigaLens\/Public\/Yiga.png",
                         "additional": ""
                     },
                     {
@@ -423,13 +423,8 @@
         },
         "InspectorController": {
             "selection": {
-                "resources": [
-                    {
-                        "uid": "1585444611755362:7424",
-                        "path_list": [
-                            "SheikahIcon"
-                        ]
-                    }
+                "objects": [
+                    "1585442921698836:1834"
                 ]
             }
         },
